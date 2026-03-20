@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://chiragkb-04.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2324243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codest0411)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/chiragkb04)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fwvWPEpvkZ)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mRQ4YZnQ)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gurub04)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragbhandarkar780@gmail.com)
 
