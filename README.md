@@ -13,7 +13,10 @@
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://chiragkb-04.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2324243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codest0411)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/chiragkb04)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fwvWPEpvkZ)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gurub04)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragbhandarkar780@gmail.com)
 
 </div>
 
@@ -33,9 +36,21 @@ const chirag = {
     "🔧 System Design & Advanced Backend",
     "🤖 Multi-LLM AI Applications",
     "⚡ Real-Time Collaborative Tools"
-  ]
+  ],
+  funFact:    "I love turning small concepts into full digital products 🚀"
 };
 ```
+
+<div align="center">
+
+| | |
+|---|---|
+| 🛰️ **Currently working on** | Full-stack web projects, AI-integrated tools & real-time systems |
+| 🤝 **Open to collaborate on** | MERN stack apps, AI integrations & creative frontend projects |
+| 🌱 **Currently learning** | Advanced system design, backend optimization & AI API integrations |
+| 💬 **Ask me about** | Web dev, React, MERN stack, UI/UX & building from scratch |
+
+</div>
 
 ---
 
@@ -43,30 +58,53 @@ const chirag = {
 
 <div align="center">
 
-### 💡 Frontend
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 💡 Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-%23A78BFA?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-%23010101?style=for-the-badge&logo=socket.io&logoColor=white)
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
+![Three.js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
 
-### 🚀 Tools & Platforms
-![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20AI-%23FF6B35?style=for-the-badge&logo=ai&logoColor=white)
+### 🎨 Design & Creative Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+
+### 🔧 Dev Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-%234285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </div>
 
@@ -78,9 +116,9 @@ const chirag = {
 
 | 🚀 Project | 📋 Description | 🛠️ Stack | 🔗 Links |
 |-----------|---------------|----------|---------|
-| **🧠 Ask-CPT** | AI Chrome Extension — solves LeetCode problems using multi-LLM support (Groq, GPT-4o, Claude, Gemini, DeepSeek) | Chrome API · Groq · OpenRouter · JS | [GitHub](https://github.com/codest0411) |
+| **🧠 Ask-CPT** | AI Chrome Extension — analyzes LeetCode problems & fixes code instantly with multi-LLM support (Groq, GPT-4o, Claude, Gemini, DeepSeek) | Chrome API · Groq · OpenRouter · JS | [GitHub](https://github.com/codest0411) |
 | **⚡ Taskify** | Real-time collaborative Kanban board with drag & drop and live updates | Next.js · TypeScript · Supabase · Zustand · dnd-kit | [Live ↗](https://taskflow99.vercel.app) · [GitHub](https://github.com/codest0411/taskify) |
-| **🪦 Tab Graveyard** | Chrome extension to recover accidentally closed browser tabs | Chrome Extension API · JS | [GitHub](https://github.com/codest0411) |
+| **🪦 Tab Graveyard** | Chrome extension to instantly recover accidentally closed browser tabs | Chrome Extension API · JS | [GitHub](https://github.com/codest0411) |
 
 </div>
 
@@ -90,26 +128,32 @@ const chirag = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codest0411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codest0411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codest0411&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codest0411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codest0411&theme=tokyonight&hide_border=true&background=0f0c29&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=codest0411&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=codest0411&theme=tokyonight&hide_border=true&background=0f0c29&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-🎯 **YOLO** &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ **Quickdraw** &nbsp;&nbsp;|&nbsp;&nbsp; 🔭 **ATS-Optimized Resume (97/100)** &nbsp;&nbsp;|&nbsp;&nbsp; 🌟 **Open Source Contributor**
+![](https://github-profile-trophy.vercel.app/?username=codest0411&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=6)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=codest0411&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -118,7 +162,9 @@ const chirag = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codest0411&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=f97316&area=true&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codest0411&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=f97316&area=true&hide_border=true" />
+
 </div>
 
 ---
@@ -131,6 +177,10 @@ const chirag = {
 <br/>
 
 **🚀 Open to SDE-1 / Software Engineer Roles — Let's build something great together!**
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=codest0411&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
