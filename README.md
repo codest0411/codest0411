@@ -80,6 +80,9 @@ const chirag = {
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+---
 
 ### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -93,13 +96,32 @@ const chirag = {
 ![Three.js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-black?style=flat-square)
+![Framer Motion](https://img.shields.io/badge/framer_motion-black?style=flat-square&logo=framer)
+
+---
 
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+### 🤖 AI / APIs / Integrations
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![WebSockets](https://img.shields.io/badge/websockets-black?style=flat-square)
+![Stripe](https://img.shields.io/badge/stripe-%23646EFA.svg?style=flat-square&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/clerk-black?style=flat-square)
+
+---
 
 ### 🎨 Design & Creative Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
@@ -112,12 +134,16 @@ const chirag = {
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
-### 🔧 Dev Tools
+---
+
+### 🔧 Dev Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-%234285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
