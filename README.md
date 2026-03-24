@@ -27,15 +27,28 @@
 ```ts
 const chirag = {
   name:       "Chirag Keshav Bhandarkar",
-  title:      "Full Stack Developer",
-  location:   "India 🇮🇳",
+  title:      "Software Development Engineer",
+  location:   "Bengaluru KA",
   education:  "BCA (2022–2025)",
   passions:   ["AI Integrations", "Real-Time Systems", "Developer Tooling"],
   mindset:    "I don't just build projects — I build solutions people can actually use.",
   currentFocus: [
-    "🔧 System Design & Advanced Backend",
-    "🤖 Multi-LLM AI Applications",
-    "⚡ Real-Time Collaborative Tools"
+   "🔧 System Design & Advanced Backend",
+  "🌐 Full-Stack Web & App Development",
+  "🤖 Multi-LLM AI Applications",
+  "⚡ Real-Time Collaborative Systems",
+  "🧩 Chrome Extension & Browser Engineering",
+  "🎨 Advanced Frontend & UI Systems",
+  "🔗 APIs, Microservices & Integrations",
+  "🗄️ Database Architecture & Data Systems",
+  "☁️ Cloud, DevOps & Deployment",
+  "🔐 Authentication, Security & Scalability",
+  "🧠 AI-Powered SaaS & Automation Tools",
+  "🕵️‍♂️ Web Scraping & DOM Intelligence",
+  "🧬 Website Cloning & Reverse Engineering",
+  "📊 Dashboards & Data Visualization",
+  "💡 Product Engineering & MVP Development",
+  "🚀 End-to-End Application Building"
   ],
   funFact:    "I love turning small concepts into full digital products 🚀"
 };
